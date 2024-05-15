@@ -24,7 +24,7 @@ nav {
 }
 
 .headSection {
-  width: 100vw;
+  width: 100%;
   height: 50rem;
   background-color: #e8e8e8;
   position: relative;
@@ -62,111 +62,110 @@ img {
 }
 
 .container {
-  width: 100vw;
-  height: 50vh;
   position: relative;
-  margin: 0 auto;
+  width: 50vw;
+  height: 50vh;
 }
 
 .tringle1 {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   background-color: var(--first-color);
   border-left: 5px solid black;
   border-bottom: 5px solid black;
   border-radius: 10%;
   position: absolute;
-  transform: translate(1rem, 1rem);
+  transform: translate(3rem, 3rem);
 }
 .tringle2 {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   background-color: var(--second-color);
   border-left: 5px solid black;
   border-bottom: 5px solid black;
   border-radius: 10%;
   position: absolute;
-  transform: translate(11rem, 11rem);
+  transform: translate(10rem, 10rem);
 }
 .tringle3 {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   background-color: var(--third-color);
   border-left: 5px solid black;
   border-bottom: 5px solid black;
   border-right: 5px solid black;
   border-radius: 10%;
   position: absolute;
-  transform: translate(21rem, 21rem);
+  transform: translate(17rem, 17rem);
 }
 .tringle4 {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   background-color: var(--forth-color);
   border-bottom: 5px solid black;
   border-right: 5px solid black;
   border-radius: 10%;
   position: absolute;
-  transform: translate(31rem, 11rem);
+  transform: translate(24rem, 10rem);
 }
 .tringle5 {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   background-color: var(--fifth-color);
   border-bottom: 5px solid black;
   border-right: 5px solid black;
   border-radius: 10%;
   position: absolute;
-  transform: translate(41rem, 1rem);
+  transform: translate(31rem, 3rem);
 }
 .tringle11 {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   background-color: var(--first-color);
   border-left: 5px solid black;
   border-bottom: 5px solid black;
   border-radius: 10%;
   position: absolute;
-  transform: translate(55rem, 1rem);
+  transform: translate(38rem, 3rem);
 }
 .tringle22 {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   background-color: var(--second-color);
   border-left: 5px solid black;
   border-bottom: 5px solid black;
   border-radius: 10%;
   position: absolute;
-  transform: translate(65rem, 11rem);
+  transform: translate(45rem, 10rem);
 }
 .tringle33 {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   background-color: var(--third-color);
   border-left: 5px solid black;
   border-bottom: 5px solid black;
   border-right: 5px solid black;
   border-radius: 10%;
   position: absolute;
-  transform: translate(75rem, 21rem);
+  transform: translate(52rem, 17rem);
 }
 .tringle44 {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   background-color: var(--forth-color);
   border-bottom: 5px solid black;
   border-right: 5px solid black;
   border-radius: 10%;
   position: absolute;
-  transform: translate(85rem, 11rem);
+  transform: translate(59rem, 10rem);
 }
 .tringle55 {
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
   background-color: var(--fifth-color);
   border-bottom: 5px solid black;
   border-right: 5px solid black;
   border-radius: 10%;
   position: absolute;
-  transform: translate(95rem, 1rem);
+  transform: translate(66rem, 3rem);
 }
